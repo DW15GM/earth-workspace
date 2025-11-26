@@ -39,3 +39,9 @@ npm run status -- --pr=123
 *   `.meta`: Configuration mapping sub-repos to git URLs.
 *   `tools/cli`: Source code for the `earth` CLI.
 *   `earth-core/`, `earth-ads/`: Cloned sub-repositories (ignored by git).
+
+## Deployment
+**None.** This repository is a **Local Development Tool**. It should **NOT** be deployed to Render, Vercel, or any production server. It lives only on:
+1.  Developer Laptops
+2.  Agent Workspaces (CI/CD Runners)
+
