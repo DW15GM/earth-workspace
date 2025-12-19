@@ -4,6 +4,7 @@ dist
 # Ignore cloned sub-repos
 earth-shared/
 earth-core/
+earth-ads/
 earth-ecommerce/
 earth-cms/
 dropshipearth/
