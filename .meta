@@ -2,9 +2,9 @@
   "projects": {
     "earth-shared": "git@github.com:DW15GM/earth-shared.git",
     "earth-core": "git@github.com:DW15GM/earth-core.git",
-    "earth-ads": "git@github.com:DW15GM/earth-ads.git",
     "earth-ecommerce": "git@github.com:DW15GM/earth-ecommerce.git",
     "earth-cms": "git@github.com:DW15GM/earth-cms.git",
-    "dropshipearth": "git@github.com:DW15GM/dropshipearth.git"
+    "dropshipearth": "git@github.com:DW15GM/dropshipearth.git",
+    "youreanatural": "git@github.com:DW15GM/youreanatural.git"
   }
 }
